@@ -20,3 +20,8 @@ dimwishlist:item=3583275737&perks=1820235745,95528736
 // Lead From Gold
 // One-Two Punch
 dimwishlist:item=1016668089&perks=1556840489,2679249093
+
+// Aurvandil FR6 (Stasis Fusion Rifle)
+// Reconstruction
+// Chill Clip
+dimwishlist:item=963710795&perks=1523832109,2978966579
