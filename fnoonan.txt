@@ -71,3 +71,8 @@ dimwishlist:item=664109750&perks=3751912585
 // Marsilion-C (Solar Heavy Grenade Launcher)
 // Cascade Point
 dimwishlist:item=867154247&perks=3751912585
+
+// Marcato-45 (Strand Machine Gun)
+// Golden Tricorn, Onslaught
+dimwishlist:item=4233375372&perks=2610012052
+dimwishlist:item=4233375372&perks=95528736
