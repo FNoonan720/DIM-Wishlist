@@ -15,9 +15,14 @@ dimwishlist:item=2465372924&perks=3643424744,3891536761
 dimwishlist:item=3678653083&perks=3418782618,4104185692
 dimwishlist:item=3678653083&perks=3418782618,3523296417
 
-// Perses-D
+// Perses-D (Stasis Scout)
 // Shoot to Loot
 dimwishlist:item=1019000888&perks=3700496672
+
+// Lunulata-4b (Stasis Bow)
+// Shoot to Loot
+// Headstone
+dimwishlist:item=2513965917&perks=3700496672,124408337
 
 // SPECIAL
 
@@ -44,3 +49,9 @@ dimwishlist:item=3583275737&perks=1820235745,2610012052
 dimwishlist:item=3583275737&perks=776531651,95528736
 dimwishlist:item=3583275737&perks=3418782618,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
+
+// POWER SLOT
+
+// Marsilion-C (Solar Heavy Grenade Launcher)
+// Cascade Point
+dimwishlist:item=867154247&perks=3751912585
