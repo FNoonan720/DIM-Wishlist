@@ -1,5 +1,9 @@
 title:fnoonan's wishlist
 
+// KINETIC SLOT
+
+// PRIMARY
+
 // Tigerspite (Kinetic Auto Rifle)
 // Overflow
 // Kinetic Tremors
@@ -11,15 +15,11 @@ dimwishlist:item=2465372924&perks=3643424744,3891536761
 dimwishlist:item=3678653083&perks=3418782618,4104185692
 dimwishlist:item=3678653083&perks=3418782618,3523296417
 
-// Ros Arago IV (Void Auto Rifle)
-// Repulsor Brace, Rewind Rounds, Subsistence
-// Golden Tricon or Onslaught
-dimwishlist:item=3583275737&perks=776531651,2610012052
-dimwishlist:item=3583275737&perks=3418782618,2610012052
-dimwishlist:item=3583275737&perks=1820235745,2610012052
-dimwishlist:item=3583275737&perks=776531651,95528736
-dimwishlist:item=3583275737&perks=3418782618,95528736
-dimwishlist:item=3583275737&perks=1820235745,95528736
+// Perses-D
+// Shoot to Loot
+dimwishlist:item=1019000888&perks=3700496672
+
+// SPECIAL
 
 // One Small Step (Kinetic Shotgun)
 // Lead From Gold
@@ -30,3 +30,17 @@ dimwishlist:item=1016668089&perks=1556840489,2679249093
 // Reconstruction
 // Chill Clip
 dimwishlist:item=963710795&perks=1523832109,2978966579
+
+// ENERGY SLOT
+
+// PRIMARY
+
+// Ros Arago IV (Void Auto Rifle)
+// Repulsor Brace, Rewind Rounds, Subsistence
+// Golden Tricon or Onslaught
+dimwishlist:item=3583275737&perks=776531651,2610012052
+dimwishlist:item=3583275737&perks=3418782618,2610012052
+dimwishlist:item=3583275737&perks=1820235745,2610012052
+dimwishlist:item=3583275737&perks=776531651,95528736
+dimwishlist:item=3583275737&perks=3418782618,95528736
+dimwishlist:item=3583275737&perks=1820235745,95528736
