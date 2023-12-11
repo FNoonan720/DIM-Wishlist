@@ -15,3 +15,8 @@ dimwishlist:item=3583275737&perks=1820235745,2610012052
 dimwishlist:item=3583275737&perks=776531651,95528736
 dimwishlist:item=3583275737&perks=3418782618,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
+
+// One Small Step (Kinetic Shotgun)
+// Lead From Gold
+// One-Two Punch
+dimwishlist:item=1016668089&perks=1556840489,2679249093
