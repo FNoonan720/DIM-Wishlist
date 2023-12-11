@@ -2,12 +2,12 @@ title:fnoonan's wishlist
 
 // Old Sterling (Strand Auto Rifle)
 // Rewind Rounds
-// Frenzy or Demolitionist
+// Frenzy, Demolitionist
 dimwishlist:item=3678653083&perks=3418782618,4104185692
 dimwishlist:item=3678653083&perks=3418782618,3523296417
 
 // Ros Arago IV (Void Auto Rifle)
-// Repulsor Brace, Rewind Rounds, or Subsistence
+// Repulsor Brace, Rewind Rounds, Subsistence
 // Golden Tricon or Onslaught
 dimwishlist:item=3583275737&perks=776531651,2610012052
 dimwishlist:item=3583275737&perks=3418782618,2610012052
