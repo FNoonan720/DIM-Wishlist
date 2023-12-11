@@ -55,6 +55,12 @@ dimwishlist:item=3583275737&perks=776531651,95528736
 dimwishlist:item=3583275737&perks=3418782618,95528736
 dimwishlist:item=3583275737&perks=1820235745,95528736
 
+// SPECIAL
+
+// Hand in Hand (Arc Shotgun)
+// Cascade Poin
+dimwishlist:item=664109750&perks=3751912585
+
 // POWER SLOT
 
 // Marsilion-C (Solar Heavy Grenade Launcher)
