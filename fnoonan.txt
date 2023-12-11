@@ -9,6 +9,11 @@ title:fnoonan's wishlist
 // Kinetic Tremors
 dimwishlist:item=2465372924&perks=3643424744,3891536761
 
+// Battle Scar (Kinetic Pulse Rifle)
+// Shoot to Loot
+// Kinetic Tremors
+dimwishlist:item=2099894368&perks=3700496672,3891536761
+
 // Old Sterling (Strand Auto Rifle)
 // Rewind Rounds
 // Frenzy, Demolitionist
