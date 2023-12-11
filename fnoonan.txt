@@ -36,6 +36,11 @@ dimwishlist:item=1016668089&perks=1556840489,2679249093
 // Chill Clip
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
+// Irukandji (Stasis Sniper Rifle)
+// Fourth Time's the Charm
+// Focused Fury
+dimwishlist:item=2673925403&perks=1354429876,2896038713
+
 // ENERGY SLOT
 
 // PRIMARY
