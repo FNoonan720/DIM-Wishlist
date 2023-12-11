@@ -1,5 +1,10 @@
 title:fnoonan's wishlist
 
+// Tigerspite (Kinetic Auto Rifle)
+// Overflow
+// Kinetic Tremors
+dimwishlist:item=2465372924&perks=3643424744,3891536761
+
 // Old Sterling (Strand Auto Rifle)
 // Rewind Rounds
 // Frenzy, Demolitionist
