@@ -6,6 +6,12 @@ title:fnoonan's wishlist
 // Overflow + Kinetic Tremors
 dimwishlist:item=2465372924&perks=3643424744,3891536761
 
+// Breakneck (Kinetic Auto Rifle)
+// Subsistence, Shoot to Loot, or Enlightened Action + Onslaught
+dimwishlist:item=2026755633&perks=1820235745,95528736
+dimwishlist:item=2026755633&perks=3700496672,95528736
+dimwishlist:item=2026755633&perks=3828510309,95528736
+
 // Battle Scar (Kinetic Pulse Rifle)
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2099894368&perks=3700496672,3891536761
