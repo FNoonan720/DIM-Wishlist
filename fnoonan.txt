@@ -28,6 +28,10 @@ dimwishlist:item=2513965917&perks=3700496672,124408337
 dimwishlist:item=3206190066&perks=3418782618,4104185692
 dimwishlist:item=3206190066&perks=3418782618,4049631843
 
+// Stay Frosty (Stasis Pulse Rifle)
+// Enlightend Action + Collective Action
+dimwishlist:item=1891321753&perks=3828510309,3324494224
+
 // KINETIC SLOT SPECIALS
 
 // One Small Step (Kinetic Shotgun)
