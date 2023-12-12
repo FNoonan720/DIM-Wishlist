@@ -79,3 +79,8 @@ dimwishlist:item=4233375372&perks=95528736
 // Surrounded or Cold Steel
 dimwishlist:item=1911078836&perks=3708227201
 dimwishlist:item=1911078836&perks=3650930298
+
+// Avalanche (Solar Machine Gun)
+// Rewind Rounds or Subsistence + Incandescent
+dimwishlist:item=4220529694&perks=3418782618,4293542123
+dimwishlist:item=4220529694&perks=1820235745,4293542123
