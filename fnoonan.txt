@@ -94,3 +94,8 @@ dimwishlist:item=1911078836&perks=3650930298
 // Rewind Rounds, Subsistence, or Under-Over + Incandescent
 dimwishlist:item=4220529694&perks=3418782618,4293542123
 dimwishlist:item=4220529694&perks=1820235745,4293542123
+
+// The Recluse (Void SMG)
+// Repulsor Brace or Frenzy
+dimwishlist:item=1050806815&perks=776531651,2489430594
+dimwishlist:item=1050806815&perks=4104185692,2489430594
