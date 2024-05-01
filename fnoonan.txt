@@ -6,30 +6,6 @@ title:fnoonan's wishlist
 // Overflow + Kinetic Tremors
 dimwishlist:item=2465372924&perks=3643424744,3891536761
 
-// Breakneck (Kinetic Auto Rifle)
-// Subsistence, Shoot to Loot, or Enlightened Action + Onslaught
-dimwishlist:item=2026755633&perks=1820235745,95528736
-dimwishlist:item=2026755633&perks=3700496672,95528736
-dimwishlist:item=2026755633&perks=3828510309,95528736
-
-// Battle Scar (Kinetic Pulse Rifle)
-// Shoot to Loot + Kinetic Tremors
-dimwishlist:item=2099894368&perks=3700496672,3891536761
-
-// Old Sterling (Strand Auto Rifle)
-// Rewind Rounds + Frenzy or Demolitionist
-dimwishlist:item=3678653083&perks=3418782618,4104185692
-dimwishlist:item=3678653083&perks=3418782618,3523296417
-
-// Lunulata-4b (Stasis Bow)
-// Shoot to Loot + Headstone
-dimwishlist:item=2513965917&perks=3700496672,124408337
-
-// Cold Front (Kinetic Sub Machine Gun)
-// Rewind Rounds + Frenzy or One-for-All
-dimwishlist:item=3206190066&perks=3418782618,4104185692
-dimwishlist:item=3206190066&perks=3418782618,4049631843
-
 // KINETIC SLOT SPECIALS
 
 // Aurvandil FR6 (Stasis Fusion Rifle)
@@ -67,30 +43,16 @@ dimwishlist:item=2763843899&perks=1820235745,4293542123
 
 // ENERGY SLOT SPECIALS
 
-// Hand in Hand (Arc Shotgun)
-// Cascade Poin
-dimwishlist:item=664109750&perks=3751912585
-
-// Glacioclasm (Void Fusion Rifle)
-// Overflow or Slideshot + Controlled Burst
-dimwishlist:item=2728851518&perks=3643424744,2594592626
-dimwishlist:item=2728851518&perks=3161816588,2594592626
+// Brave Forbearance
+// Demo + Chain Reaction
+dimwishlist:item=568611921&perks=3523296417,2396489472
 
 // POWER SLOT
 
-// Marsilion-C (Solar Heavy Grenade Launcher)
-// Cascade Point
-dimwishlist:item=867154247&perks=3751912585
-
-// Marcato-45 (Strand Machine Gun)
-// Golden Tricorn or Onslaught
-dimwishlist:item=4233375372&perks=2610012052
-dimwishlist:item=4233375372&perks=95528736
-
-// Zephyr (Stasis Sword)
-// Surrounded or Cold Steel
-dimwishlist:item=1911078836&perks=3708227201
-dimwishlist:item=1911078836&perks=3650930298
+// Edge Transit
+// Cascade Point/Envious Assassin + Bait-and-Switch
+dimwishlist:item=568611923&perks=3751912585,3078487919
+dimwishlist:item=568611923&perks=968510818,3078487919
 
 // Avalanche (Solar Machine Gun)
 // Rewind Rounds, Subsistence, or Under-Over + Incandescent
