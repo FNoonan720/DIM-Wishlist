@@ -18,6 +18,11 @@ dimwishlist:item=2465372924&perks=3643424744,3891536761
 dimwishlist:item=205225492&perks=3700496672,3038247973
 dimwishlist:item=205225492&perks=3891536761,3824105627
 
+// Blast Furnace (Kinetic Pulse Rifle)
+// Kinetic Tremors + One-For-All/Frenzy
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+
 // KINETIC SLOT SPECIALS
 
 // Aurvandil FR6 (Stasis Fusion Rifle)
