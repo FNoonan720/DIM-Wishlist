@@ -56,8 +56,10 @@ dimwishlist:item=2763843899&perks=1820235745,4293542123
 
 // Elsie's Rifle (Void Pulse Rifle)
 // Repulsor Brace + Frenzy/Desp. Measures
+// Loose Change + Desp. Measures
 dimwishlist:item=3851176026&perks=776531651,4104185692
 dimwishlist:item=3851176026&perks=776531651,2109543898
+dimwishlist:item=2372514509&perks=1119449540,2109543898
 
 // ENERGY SLOT SPECIALS
 
