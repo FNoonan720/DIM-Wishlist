@@ -61,6 +61,12 @@ dimwishlist:item=3851176026&perks=776531651,4104185692
 dimwishlist:item=3851176026&perks=776531651,2109543898
 dimwishlist:item=2372514509&perks=1119449540,2109543898
 
+// Maahes HC4 (Void Hand Cannon)
+// Repulsor Brace + Frenzy
+// Enlightened Action + Golden Tricon
+dimwishlist:item=1246793994&perks=776531651,4104185692
+dimwishlist:item=1246793994&perks=3828510309,2610012052
+
 // ENERGY SLOT SPECIALS
 
 // Indebted Kindness
