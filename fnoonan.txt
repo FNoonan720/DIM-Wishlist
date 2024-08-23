@@ -93,6 +93,10 @@ dimwishlist:item=499245245&perks=3978468247,2396489472
 // Heal Clip + Incandescent
 dimwishlist:item=2584830733&perks=3017780555,4293542123
 
+// Dead Weight (Rapid-Fire Frame Arc Shotgun)
+// Grave Robber + One-Two Punch
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+
 // POWER SLOT
 
 // Edge Transit
