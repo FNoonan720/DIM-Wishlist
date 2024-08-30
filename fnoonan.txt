@@ -19,6 +19,10 @@ dimwishlist:item=205225492&perks=3891536761,3824105627
 dimwishlist:item=2372514508&perks=3891536761,4049631843
 dimwishlist:item=2372514508&perks=3891536761,4104185692
 
+// Breachlight (Strand Sidearm)
+// Pugulist + Desp. Measures
+dimwishlist:item=2328923181&perks=691659142,2109543898
+
 // KINETIC SLOT SPECIALS
 
 // Aurvandil FR6 (Stasis Fusion Rifle)
