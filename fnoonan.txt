@@ -35,9 +35,10 @@ dimwishlist:item=568611922&perks=3300816228,469285294
 dimwishlist:item=568611922&perks=3300816228,4104185692
 
 // Perfect Paradox
-// Threat Detector/Field Prep + One-Two Punch
+// Threat Detector/Field Prep/Threat Remover + One-Two Punch
 dimwishlist:item=1298672084&perks=4071163871,2679249093
 dimwishlist:item=1298672084&perks=2869569095,2679249093
+dimwishlist:item=1298672084&perks=1126264488,2679249093
 
 // ENERGY SLOT PRIMARIES
 
