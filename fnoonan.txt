@@ -41,6 +41,10 @@ dimwishlist:item=2673925403&perks=1354429876,2896038713
 
 // ENERGY SLOT PRIMARIES
 
+// Reckless Oracle (Void Rapid-Fire Auto)
+// Demolitionist + One-for-All
+dimwishlist:item=1992309064&perks=3523296417,4049631843
+
 // Insurmountable (Void Precision Sidearm)
 // Demolitionist + Desp. Measures, One for All
 dimwishlist:item=414045521&perks=3523296417,2109543898
