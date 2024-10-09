@@ -101,6 +101,10 @@ dimwishlist:item=2039776723&perks=3300816228,3751912585
 dimwishlist:item=2039776723&perks=3987942396,3194351027
 dimwishlist:item=2039776723&perks=3300816228,3194351027
 
+// Heretic's Favor (Stasis Aggressive Rocket Launcher)
+// Slideshot + Explosive Light
+dimwishlist:item=4224667951&perks=3161816588,3194351027
+
 // Avalanche (Solar Machine Gun)
 // Rewind Rounds, Subsistence, or Under-Over + Incandescent
 dimwishlist:item=4220529694&perks=3418782618,4293542123
