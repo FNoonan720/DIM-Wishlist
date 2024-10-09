@@ -28,6 +28,12 @@ dimwishlist:item=2328923181&perks=923806249,2109543898
 
 // KINETIC SLOT SPECIALS
 
+// Liturgy (Stasis Double-Fire GL)
+// Perp. Motion, Env. Arsenal, Slideways + Chill Clip
+dimwishlist:item=2599338624&perks=1428297954,2978966579
+dimwishlist:item=2599338624&perks=3987942396,2978966579
+dimwishlist:item=2599338624&perks=2039302152,2978966579
+
 // Rake Angle (Stasis Aggressive Glaive)
 // Rimestealer, Replenishing Aegis, Overflow, Impulse Amplifier, Lead From Gold + Chill Clip
 dimwishlist:item=3997086838&perks=1955165503,2978966579
@@ -36,24 +42,9 @@ dimwishlist:item=3997086838&perks=3643424744,2978966579
 dimwishlist:item=3997086838&perks=951095735,2978966579
 dimwishlist:item=3997086838&perks=1556840489,2978966579
 
-// Aurvandil FR6 (Stasis Fusion Rifle)
-// Reconstruction + Chill Clip
-dimwishlist:item=963710795&perks=1523832109,2978966579
-
 // Irukandji (Stasis Sniper Rifle)
 // Fourth Time's the Charm + Focused Fury
 dimwishlist:item=2673925403&perks=1354429876,2896038713
-
-// The Mountaintop
-// Auto-Loading + Recombination/Frenzy
-dimwishlist:item=568611922&perks=3300816228,469285294
-dimwishlist:item=568611922&perks=3300816228,4104185692
-
-// Perfect Paradox
-// Threat Detector/Field Prep/Threat Remover + One-Two Punch
-dimwishlist:item=1298672084&perks=4071163871,2679249093
-dimwishlist:item=1298672084&perks=2869569095,2679249093
-dimwishlist:item=1298672084&perks=1126264488,2679249093
 
 
 // ENERGY SLOT PRIMARIES
