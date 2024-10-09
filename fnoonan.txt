@@ -41,6 +41,11 @@ dimwishlist:item=2673925403&perks=1354429876,2896038713
 
 // ENERGY SLOT PRIMARIES
 
+// Gridskipper (Void Rapid-Fire Pulse)
+// Demolitionist + Frenzy, Desp. Measures
+dimwishlist:item=3433930495&perks=3523296417,4104185692
+dimwishlist:item=3433930495&perks=3523296417,2109543898
+
 // Reckless Oracle (Void Rapid-Fire Auto)
 // Demolitionist + One-for-All
 dimwishlist:item=1992309064&perks=3523296417,4049631843
