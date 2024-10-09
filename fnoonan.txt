@@ -27,6 +27,14 @@ dimwishlist:item=2328923181&perks=923806249,2109543898
 
 // KINETIC SLOT SPECIALS
 
+// Rake Angle (Stasis Aggressive Glaive)
+// Rimestealer, Replenishing Aegis, Overflow, Impulse Amplifier, Lead From Gold + Chill Clip
+dimwishlist:item=3997086838&perks=1955165503,2978966579
+dimwishlist:item=3997086838&perks=1966281507,2978966579
+dimwishlist:item=3997086838&perks=3643424744,2978966579
+dimwishlist:item=3997086838&perks=951095735,2978966579
+dimwishlist:item=3997086838&perks=1556840489,2978966579
+
 // Aurvandil FR6 (Stasis Fusion Rifle)
 // Reconstruction + Chill Clip
 dimwishlist:item=963710795&perks=1523832109,2978966579
