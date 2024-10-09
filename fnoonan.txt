@@ -90,7 +90,13 @@ dimwishlist:item=3738678140&perks=1631667848,2679249093
 
 // POWER SLOT
 
-// Wicked Sister (Strand Heavy Grenade Launcher)
+// Bitter/Sweet (Arc Adaptive GL)
+// Env. Arsenal + Bait and Switch, Cascade Point, Explosive Light
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3751912585
+dimwishlist:item=2599338625&perks=3987942396,3194351027
+
+// Wicked Sister (Strand Adaptive GL)
 // Envious Arsenal, Envious Assassin, Auto-Loading, Clown Cartridge + Bait and Switch
 // Envious Arsenal, Auto-Loading + Cascade Point
 // Envious Arsenal, Auto-Loading + Explosive Light
