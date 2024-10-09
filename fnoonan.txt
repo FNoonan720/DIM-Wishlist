@@ -83,6 +83,9 @@ dimwishlist:item=1246793994&perks=3828510309,2610012052
 // Grave Robber + One-Two Punch
 dimwishlist:item=3738678140&perks=1631667848,2679249093
 
+// Prophet of Doom (Arc Precision Shotgun)
+// Reconstruction + Cascade Point
+dimwishlist:item=2145441168&perks=1523832109,3751912585
 
 // POWER SLOT
 
