@@ -93,6 +93,11 @@ dimwishlist:item=1246793994&perks=3828510309,2610012052
 
 // ENERGY SLOT SPECIALS
 
+// Arcane Embrace (Arc Heavy Burst Shotgun)
+// FTTC + Precision Instrument, Surrounded
+dimwishlist:item=3649985571&perks=1354429876,555281244
+dimwishlist:item=3649985571&perks=1354429876,3708227201
+
 // Glacioclasm (Void High-Impact Fusion)
 // Env. Assassin, Overflow, Slideshot + Withering Gase
 dimwishlist:item=1183116657&perks=968510818,1134488199
