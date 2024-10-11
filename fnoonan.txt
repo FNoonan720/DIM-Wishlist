@@ -7,6 +7,10 @@ title:fnoonan's wishlist
 dimwishlist:item=3558681245&perks=1820235745,95528736
 dimwishlist:item=3558681245&perks=3418782618,95528736
 
+// Stay Frosty (Stasis Lightweight Pulse Rifle)
+// Rimestealer + Headstone
+dimwishlist:item=1123433952&perks=1955165503,124408337
+
 // Exuviae (Stasis Aggressive HC)
 // Rimestealer + Headstone
 dimwishlist:item=2823644677&perks=1955165503,124408337
