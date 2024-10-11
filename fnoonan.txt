@@ -2,6 +2,11 @@ title:fnoonan's wishlist
 
 // KINETIC SLOT PRIMARIES
 
+// BrayTech Werewolf (Kinetic Precision Auto Rifle)
+// Subsistence, Rewind Rounds + Onslaught
+dimwishlist:item=3558681245&perks=1820235745,95528736
+dimwishlist:item=3558681245&perks=3418782618,95528736
+
 // Exuviae (Stasis Aggressive HC)
 // Rimestealer + Headstone
 dimwishlist:item=2823644677&perks=1955165503,124408337
@@ -83,6 +88,12 @@ dimwishlist:item=1246793994&perks=3828510309,2610012052
 
 
 // ENERGY SLOT SPECIALS
+
+// Glacioclasm (Void High-Impact Fusion)
+// Env. Assassin, Overflow, Slideshot + Withering Gase
+dimwishlist:item=1183116657&perks=968510818,1134488199
+dimwishlist:item=1183116657&perks=3643424744,1134488199
+dimwishlist:item=1183116657&perks=3161816588,1134488199
 
 // Sojourner's Tale (Solar Slug Shotgun)
 // Discord + Incandescant
