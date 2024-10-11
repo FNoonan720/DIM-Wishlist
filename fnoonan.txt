@@ -162,6 +162,12 @@ dimwishlist:item=425681240&perks=1421772400,3751912585
 dimwishlist:item=425681240&perks=1421772400,3194351027
 dimwishlist:item=425681240&perks=1421772400,3078487919
 
+// Mistral Lift (Void Adaptive Burst Linear)
+// Withering Gaze, Env. Assassin, Reconstruction + Bait and Switch
+dimwishlist:item=3483485727&perks=1134488199,3078487919
+dimwishlist:item=3483485727&perks=968510818,3078487919
+dimwishlist:item=3483485727&perks=1523832109,3078487919
+
 // Heretic's Favor (Stasis Aggressive Rocket Launcher)
 // Slideshot + Explosive Light
 dimwishlist:item=4224667951&perks=3161816588,3194351027
