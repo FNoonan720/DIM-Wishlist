@@ -84,6 +84,10 @@ dimwishlist:item=1246793994&perks=3828510309,2610012052
 
 // ENERGY SLOT SPECIALS
 
+// Sojourner's Tale (Solar Slug Shotgun)
+// Discord + Incandescant
+dimwishlist:item=2130875369&perks=3978468247,4293542123
+
 // Zealot's Reward (Void Rapid-Fire Fusion)
 // Auto-Loading + Controlled Burst
 dimwishlist:item=2720651699&perks=3300816228,2594592626
