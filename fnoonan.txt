@@ -112,6 +112,10 @@ dimwishlist:item=2130875369&perks=3978468247,4293542123
 // Auto-Loading + Controlled Burst
 dimwishlist:item=2720651699&perks=3300816228,2594592626
 
+// Mechabre (Arc Aggressive Sniper)
+// Triple Tap + Vorpal
+dimwishlist:item=2477980485&perks=3400784728,1546637391
+
 // Dead Weight (Rapid-Fire Frame Arc Shotgun)
 // Grave Robber + One-Two Punch
 dimwishlist:item=3738678140&perks=1631667848,2679249093
