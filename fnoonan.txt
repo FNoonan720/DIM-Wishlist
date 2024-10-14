@@ -2,29 +2,18 @@ title:fnoonan's wishlist
 
 // KINETIC SLOT PRIMARIES
 
-// BrayTech Werewolf (Kinetic Precision Auto Rifle)
+// Exuviae (Stasis Aggressive [120 RPM] Hand Cannon)
+// Rimestealer + Headstone
+dimwishlist:item=2823644677&perks=1955165503,124408337
+
+// BrayTech Werewolf (Kinetic Precision [450 RPM] Auto Rifle)
 // Subsistence, Rewind Rounds + Onslaught
 dimwishlist:item=3558681245&perks=1820235745,95528736
 dimwishlist:item=3558681245&perks=3418782618,95528736
 
-// Stay Frosty (Stasis Lightweight Pulse Rifle)
+// Stay Frosty (Stasis Lightweight [450 RPM] Pulse Rifle)
 // Rimestealer + Headstone
 dimwishlist:item=1123433952&perks=1955165503,124408337
-
-// Exuviae (Stasis Aggressive HC)
-// Rimestealer + Headstone
-dimwishlist:item=2823644677&perks=1955165503,124408337
-
-// Blast Furnace (Kinetic Pulse Rifle)
-// Kinetic Tremors + One-For-All/Frenzy
-dimwishlist:item=2372514508&perks=3891536761,4049631843
-dimwishlist:item=2372514508&perks=3891536761,4104185692
-
-// Breachlight (Strand Sidearm)
-// Pugulist/Demolitionist/Slice + Desp. Measures
-dimwishlist:item=2328923181&perks=691659142,2109543898
-dimwishlist:item=2328923181&perks=3523296417,2109543898
-dimwishlist:item=2328923181&perks=923806249,2109543898
 
 
 // KINETIC SLOT SPECIALS
