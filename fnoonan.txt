@@ -18,7 +18,7 @@ dimwishlist:item=1123433952&perks=1955165503,124408337
 
 // KINETIC SLOT SPECIALS
 
-// Liturgy (Stasis Double-Fire GL)
+// Liturgy (Stasis Double-Fire Grenade Launcher)
 // Env. Arsenal, Slideways + Chill Clip
 dimwishlist:item=2599338624&perks=3987942396,2978966579
 dimwishlist:item=2599338624&perks=2039302152,2978966579
@@ -32,45 +32,29 @@ dimwishlist:item=3997086838&perks=1556840489,2978966579
 
 // ENERGY SLOT PRIMARIES
 
-// Gridskipper (Void Rapid-Fire Pulse)
+// Gridskipper (Void Rapid-Fire [540 RPM] Pulse Rifle)
 // Demolitionist + Frenzy, Desp. Measures
 dimwishlist:item=3433930495&perks=3523296417,4104185692
 dimwishlist:item=3433930495&perks=3523296417,2109543898
 
-// Reckless Oracle (Void Rapid-Fire Auto)
-// Demolitionist + One-for-All
-dimwishlist:item=1992309064&perks=3523296417,4049631843
-
-// Insurmountable (Void Precision Sidearm)
-// Demolitionist + Desp. Measures, One for All
+// Insurmountable (Void Precision [260 RPM] Sidearm)
+// Demolitionist + Desp. Measures
 dimwishlist:item=414045521&perks=3523296417,2109543898
-dimwishlist:item=414045521&perks=3523296417,4049631843
 
-// Noxious Vetiver (Arc Precision SMG)
+// Noxious Vetiver (Arc Precision [600 RPM] SMG)
 // Loose Change + Jolting Feedback
 dimwishlist:item=825495813&perks=1119449540,3966416502
 
-// Ros Arago IV (Void Auto Rifle)
-// Repulsor Brace, Rewind Rounds, or Subsistence + Golden Tricon or Onslaught
-dimwishlist:item=3583275737&perks=776531651,2610012052
-dimwishlist:item=3583275737&perks=3418782618,2610012052
-dimwishlist:item=3583275737&perks=1820235745,2610012052
-dimwishlist:item=3583275737&perks=776531651,95528736
-dimwishlist:item=3583275737&perks=3418782618,95528736
-dimwishlist:item=3583275737&perks=1820235745,95528736
-
-// Elsie's Rifle (Void Pulse Rifle)
-// Repulsor Brace + Frenzy/Desp. Measures
-// Loose Change + Desp. Measures
-dimwishlist:item=3851176026&perks=776531651,4104185692
-dimwishlist:item=3851176026&perks=776531651,2109543898
-dimwishlist:item=2372514509&perks=1119449540,2109543898
-
-// Maahes HC4 (Void Hand Cannon)
+// Maahes HC4 (Void Heavy Burst [257 RPM] Hand Cannon)
 // Repulsor Brace + Frenzy
-// Enlightened Action + Golden Tricon
-dimwishlist:item=1246793994&perks=776531651,4104185692
-dimwishlist:item=1246793994&perks=3828510309,2610012052
+// Enlightened Action, Rapid Hit + Frenzy
+dimwishlist:item=1246793994&perks=3828510309,4104185692
+dimwishlist:item=1246793994&perks=247725512,4104185692
+
+// Ros Arago IV (Void Adaptive [600 RPM] Auto Rifle)
+// Subsistence, Rewind Rounds + Onslaught
+dimwishlist:item=3583275737&perks=1820235745,95528736
+dimwishlist:item=3583275737&perks=3418782618,95528736
 
 
 // ENERGY SLOT SPECIALS
