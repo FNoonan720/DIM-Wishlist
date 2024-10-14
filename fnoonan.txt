@@ -19,22 +19,15 @@ dimwishlist:item=1123433952&perks=1955165503,124408337
 // KINETIC SLOT SPECIALS
 
 // Liturgy (Stasis Double-Fire GL)
-// Perp. Motion, Env. Arsenal, Slideways + Chill Clip
-dimwishlist:item=2599338624&perks=1428297954,2978966579
+// Env. Arsenal, Slideways + Chill Clip
 dimwishlist:item=2599338624&perks=3987942396,2978966579
 dimwishlist:item=2599338624&perks=2039302152,2978966579
 
 // Rake Angle (Stasis Aggressive Glaive)
-// Rimestealer, Replenishing Aegis, Overflow, Impulse Amplifier, Lead From Gold + Chill Clip
-dimwishlist:item=3997086838&perks=1955165503,2978966579
-dimwishlist:item=3997086838&perks=1966281507,2978966579
+// Overflow, Impulse Amplifier, Lead From Gold + Chill Clip
 dimwishlist:item=3997086838&perks=3643424744,2978966579
 dimwishlist:item=3997086838&perks=951095735,2978966579
 dimwishlist:item=3997086838&perks=1556840489,2978966579
-
-// Irukandji (Stasis Sniper Rifle)
-// Fourth Time's the Charm + Focused Fury
-dimwishlist:item=2673925403&perks=1354429876,2896038713
 
 
 // ENERGY SLOT PRIMARIES
