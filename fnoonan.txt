@@ -153,12 +153,14 @@ dimwishlist:item=2145441168&perks=1523832109,3751912585
 
 // VS Chill Inhibitor (Stasis Rapid-Fire Grenade Launcher)
 // Cascade Point, Env. Arsenal + Bait and Switch, Surrounded, Expl. Light
+// Demolitionist + Bait and Switch
 dimwishlist:item=1762785662&perks=3751912585,3078487919
 dimwishlist:item=1762785662&perks=3751912585,3708227201
 dimwishlist:item=1762785662&perks=3751912585,3194351027
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3987942396,3708227201
 dimwishlist:item=1762785662&perks=3987942396,3194351027
+dimwishlist:item=1762785662&perks=3523296417,3078487919
 
 // Bitter/Sweet (Arc Adaptive GL)
 // Env. Arsenal + Cascade Point
