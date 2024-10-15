@@ -11,6 +11,11 @@ dimwishlist:item=2823644677&perks=1955165503,124408337
 dimwishlist:item=3558681245&perks=1820235745,95528736
 dimwishlist:item=3558681245&perks=3418782618,95528736
 
+// Accrued Redemption (Kinetic Precision Bow)
+// Archer's Tempo + Expl. Head, Kinetic Tremors
+dimwishlist:item=3621336854&perks=201365942,3365897133
+dimwishlist:item=3621336854&perks=201365942,3891536761
+
 // Stay Frosty (Stasis Lightweight [450 RPM] Pulse Rifle)
 // Rimestealer + Headstone
 dimwishlist:item=1123433952&perks=1955165503,124408337
