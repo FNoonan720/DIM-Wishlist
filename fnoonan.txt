@@ -46,6 +46,12 @@ dimwishlist:item=3433930495&perks=3523296417,2109543898
 // Demolitionist + Desp. Measures
 dimwishlist:item=414045521&perks=3523296417,2109543898
 
+// Ancient Gospel (Void Adaptive [140 RPM] Hand Cannon)
+// Rampage + Swashbuckler, Expl. Payload, Kill Clip
+dimwishlist:item=963574173&perks=3425386926,4082225868
+dimwishlist:item=963574173&perks=3425386926,3038247973
+dimwishlist:item=963574173&perks=3425386926,1015611457
+
 // Noxious Vetiver (Arc Precision [600 RPM] SMG)
 // Loose Change + Jolting Feedback
 dimwishlist:item=825495813&perks=1119449540,3966416502
