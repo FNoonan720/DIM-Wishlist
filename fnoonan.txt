@@ -59,6 +59,11 @@ dimwishlist:item=3583275737&perks=3418782618,95528736
 
 // ENERGY SLOT SPECIALS
 
+// Prophet of Doom (Arc Precision Shotgun)
+// Env. Arsenal, Reconstruction + Cascade Point
+dimwishlist:item=2145441168&perks=3987942396,3751912585
+dimwishlist:item=2145441168&perks=1523832109,3751912585
+
 // Arcane Embrace (Arc Heavy Burst Shotgun)
 // FTTC + Precision Instrument, Surrounded
 dimwishlist:item=3649985571&perks=1354429876,555281244
