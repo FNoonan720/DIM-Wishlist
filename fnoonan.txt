@@ -42,6 +42,14 @@ dimwishlist:item=3997086838&perks=1556840489,2978966579
 
 // ENERGY SLOT PRIMARIES
 
+// VS Pyroelectric Propellant (Arc Adaptive [600 RPM] Auto Rifle)
+// Attrition Orbs, Eddy Current, Strategist + Jolting Feedback
+// Attrition Orbs + Onslaught
+dimwishlist:item=4232480042&perks=243981275,3966416502
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=880644845,3966416502
+dimwishlist:item=4232480042&perks=243981275,95528736
+
 // Reckless Oracle (Void Rapid-Fire [720 RPM] Auto Rifle)
 // Subsistence, Demolitionist + One-for-All, Paracausal Affinity
 dimwishlist:item=1992309064&perks=1820235745,4049631843
