@@ -25,6 +25,13 @@ dimwishlist:item=1123433952&perks=1955165503,124408337
 dimwishlist:item=2241507890&perks=3523296417,2109543898
 dimwishlist:item=2241507890&perks=3523296417,4104185692
 
+// Liminal Vigil (Stasis Heavy Burst [325 RPM] Sidearm)
+// Headstone + Kill Clip, Desparado, Swashbuckler, Surrounded
+dimwishlist:item=3138208275&perks=124408337,1015611457
+dimwishlist:item=3138208275&perks=124408337,3047969693
+dimwishlist:item=3138208275&perks=124408337,4082225868
+dimwishlist:item=3138208275&perks=124408337,3708227201
+
 
 // KINETIC SLOT SPECIALS
 
