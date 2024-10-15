@@ -175,6 +175,12 @@ dimwishlist:item=2039776723&perks=2284787283,3078487919
 dimwishlist:item=2039776723&perks=3987942396,3751912585
 dimwishlist:item=2039776723&perks=3300816228,3751912585
 
+// Terminus Horizon (Arc High-Impact [360 RPM] Machine Gun)
+// Dragonfly, Triple Tap, Demolitionist + Adr. Junkie
+dimwishlist:item=487205709&perks=2848615171,11612903
+dimwishlist:item=487205709&perks=3400784728,11612903
+dimwishlist:item=487205709&perks=3523296417,11612903
+
 // Acosmic (Void Rapid-Fire GL)
 // Clown Cartridge, Air Trigger + Bait and Switch
 // Clown Cartridge + Cascade Point
