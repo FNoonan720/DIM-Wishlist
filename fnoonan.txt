@@ -20,6 +20,11 @@ dimwishlist:item=3621336854&perks=201365942,3891536761
 // Rimestealer + Headstone
 dimwishlist:item=1123433952&perks=1955165503,124408337
 
+// Sacred Provenance (Kinetic Aggressive Burst [450 RPM] Pulse Rifle)
+// Demolitionist + Desp. Measures, Frenzy
+dimwishlist:item=2241507890&perks=3523296417,2109543898
+dimwishlist:item=2241507890&perks=3523296417,4104185692
+
 
 // KINETIC SLOT SPECIALS
 
