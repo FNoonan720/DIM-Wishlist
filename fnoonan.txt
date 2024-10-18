@@ -121,10 +121,6 @@ dimwishlist:item=1762785663&perks=1821614984,243981275
 dimwishlist:item=2306182339&perks=3300816228,4104185692
 dimwishlist:item=2306182339&perks=3300816228,1546637391
 
-// VS Gravitic Arrest (Void Adaptive Fusion Rifle)
-// Demolitionist + Chain Reaction
-dimwishlist:item=93061497&perks=3523296417,2396489472
-
 // Omniscient Eye (Solar Rapid-Fire [140 RPM] Sniper Rifle)
 // FTTC, Env. Arsenal + Vorpal, Prec. Instrument
 dimwishlist:item=147444292&perks=1354429876,1546637391
