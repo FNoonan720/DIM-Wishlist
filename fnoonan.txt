@@ -103,18 +103,8 @@ dimwishlist:item=3583275737&perks=3418782618,95528736
 // ENERGY SLOT SPECIALS
 
 // VS Velocity Baton (Void Area Denial Grenade Launcher)
-// Repulsor Brace, Unrelenting, Demolitionist, Slickdraw + Destabalizing Rounds
-// Unrelenting, Demolitionist + Harmony
-// Unrelenting, Demolitionist, Slickdraw + Attrition Orbs
-dimwishlist:item=1762785662&perks=3987942396,3194351027
-dimwishlist:item=1762785663&perks=3108830275,2048641572
-dimwishlist:item=1762785663&perks=3523296417,2048641572
-dimwishlist:item=1762785663&perks=1821614984,2048641572
-dimwishlist:item=1762785663&perks=3108830275,438098033
-dimwishlist:item=1762785663&perks=3523296417,438098033
-dimwishlist:item=1762785663&perks=3108830275,243981275
+// Demolitionist + Attrition Orbs
 dimwishlist:item=1762785663&perks=3523296417,243981275
-dimwishlist:item=1762785663&perks=1821614984,243981275
 
 // Wilderflight (Void Double-Fire Grenade Launcher)
 // Auto-Loading Holster + Frenzy, Vorpal
