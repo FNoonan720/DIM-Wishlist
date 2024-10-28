@@ -2,6 +2,10 @@ title:fnoonan's wishlist
 
 // KINETIC SLOT PRIMARIES
 
+// Midnight Coup (Kinetic Adaptive [140 RPM] Hand Cannon)
+// Shoot to Loot + Kinetic Tremors
+dimwishlist:item=2499720827&perks=3700496672,3891536761
+
 // Exuviae (Stasis Aggressive [120 RPM] Hand Cannon)
 // Rimestealer + Headstone
 dimwishlist:item=2823644677&perks=1955165503,124408337
