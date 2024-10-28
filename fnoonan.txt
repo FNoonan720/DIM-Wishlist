@@ -6,6 +6,22 @@ title:fnoonan's wishlist
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2499720827&perks=3700496672,3891536761
 
+// Battle Scar (Kinetic Lightweight [450 RPM] Pulse Rifle)
+// Shoot to Loot + Kinetic Tremors
+dimwishlist:item=2099894368&perks=3700496672,3891536761
+
+// Bygones (Kinetic Adaptive [390 RPM] Pulse Rifle)
+// Shoot to Loot + Kinetic Tremors
+dimwishlist:item=2199554524&perks=3700496672,3891536761
+
+// Breakneck (Kinetic Precision [450 RPM] Auto Rifle)
+// Shoot to Loot + Kinetic Tremors
+dimwishlist:item=2026755633&perks=3700496672,3891536761
+
+// Hung Jury SR4 (Kinetic Precision [180 RPM] Scout Rifle)
+// Shoot to Loot + Kinetic Tremors
+dimwishlist:item=3832743906&perks=3700496672,3891536761
+
 // Exuviae (Stasis Aggressive [120 RPM] Hand Cannon)
 // Rimestealer + Headstone
 dimwishlist:item=2823644677&perks=1955165503,124408337
