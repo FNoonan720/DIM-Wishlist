@@ -6,10 +6,6 @@ title:fnoonan's wishlist
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2499720827&perks=3700496672,3891536761
 
-// Battle Scar (Kinetic Lightweight [450 RPM] Pulse Rifle)
-// Shoot to Loot + Kinetic Tremors
-dimwishlist:item=2099894368&perks=3700496672,3891536761
-
 // Bygones (Kinetic Adaptive [390 RPM] Pulse Rifle)
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2199554524&perks=3700496672,3891536761
@@ -64,12 +60,6 @@ dimwishlist:item=2969415423&perks=124408337,1954620775
 // Env. Arsenal, Slideways + Chill Clip
 dimwishlist:item=2599338624&perks=3987942396,2978966579
 dimwishlist:item=2599338624&perks=2039302152,2978966579
-
-// Rake Angle (Stasis Aggressive Glaive)
-// Overflow, Impulse Amplifier, Lead From Gold + Chill Clip
-dimwishlist:item=3997086838&perks=3643424744,2978966579
-dimwishlist:item=3997086838&perks=951095735,2978966579
-dimwishlist:item=3997086838&perks=1556840489,2978966579
 
 
 // ENERGY SLOT PRIMARIES
