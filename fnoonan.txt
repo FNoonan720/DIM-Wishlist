@@ -18,10 +18,6 @@ dimwishlist:item=2026755633&perks=3700496672,3891536761
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=3832743906&perks=3700496672,3891536761
 
-// Exuviae (Stasis Aggressive [120 RPM] Hand Cannon)
-// Rimestealer + Headstone
-dimwishlist:item=2823644677&perks=1955165503,124408337
-
 // BrayTech Werewolf (Kinetic Precision [450 RPM] Auto Rifle)
 // Subsistence, Rewind Rounds + Onslaught
 dimwishlist:item=3558681245&perks=1820235745,95528736
