@@ -77,8 +77,11 @@ dimwishlist:item=1992309064&perks=3523296417,3215448563
 
 // Gridskipper (Void Rapid-Fire [540 RPM] Pulse Rifle)
 // Demolitionist + Frenzy, Desp. Measures
+// Rep. Brace + Frenzy, Desp. Measures
 dimwishlist:item=3433930495&perks=3523296417,4104185692
 dimwishlist:item=3433930495&perks=3523296417,2109543898
+dimwishlist:item=3433930495&perks=776531651,4104185692
+dimwishlist:item=3433930495&perks=776531651,2109543898
 
 // Insurmountable (Void Precision [260 RPM] Sidearm)
 // Demolitionist + Desp. Measures
