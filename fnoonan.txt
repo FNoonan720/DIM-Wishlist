@@ -265,3 +265,14 @@ dimwishlist:item=2809120022&perks=3751917997,3751917993
 dimwishlist:item=2809120022&perks=3751917996,3751917992
 // Coyote + Dragon
 dimwishlist:item=2809120022&perks=3751917999,3751917990
+
+// Stoicism (Titan)
+// Star-Eater + *Anything*
+dimwishlist:item=266021826&perks=1476923955
+// Syntho + Assassin
+dimwishlist:item=266021826&perks=1476923952,1476923956
+// Contact + Assassin, Inmost
+dimwishlist:item=266021826&perks=1476923952,3573490504
+dimwishlist:item=266021826&perks=1476923953,3573490504
+// Armamentarium + Bear
+dimwishlist:item=266021826&perks=3573490505,3573490500
