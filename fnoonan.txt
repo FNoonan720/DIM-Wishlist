@@ -255,3 +255,13 @@ dimwishlist:item=2273643087&perks=183430248,183430251
 dimwishlist:item=2273643087&perks=183430255,183430249
 
 // Relativism (Hunter)
+// Cyrtarachne + Renewal
+dimwishlist:item=2809120022&perks=3751917995,3751917994
+// Gyrfalcon + Inmost, Galanor, Foetracer
+dimwishlist:item=2809120022&perks=1476923953,3751917993
+dimwishlist:item=2809120022&perks=3751917998,3751917993
+dimwishlist:item=2809120022&perks=3751917997,3751917993
+// Liar + Caliban
+dimwishlist:item=2809120022&perks=3751917996,3751917992
+// Coyote + Dragon
+dimwishlist:item=2809120022&perks=3751917999,3751917990
