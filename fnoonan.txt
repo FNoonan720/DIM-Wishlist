@@ -53,9 +53,8 @@ dimwishlist:item=2969415423&perks=124408337,1954620775
 // KINETIC SLOT SPECIALS
 
 // Liturgy (Stasis Double-Fire Grenade Launcher)
-// Env. Arsenal, Slideways + Chill Clip
+// Env. Arsenal + Chill Clip
 dimwishlist:item=2599338624&perks=3987942396,2978966579
-dimwishlist:item=2599338624&perks=2039302152,2978966579
 
 
 // ENERGY SLOT PRIMARIES
