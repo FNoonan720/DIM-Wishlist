@@ -6,6 +6,11 @@ title:fnoonan's wishlist
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2499720827&perks=3700496672,3891536761
 
+// Perfect Paradox (Kinetic Rapid-Fire [140 RPM] Shotgun)
+// Pugulist, Field Prep + Trench Barrel
+dimwishlist:item=1298672084&perks=691659142,2360754333
+dimwishlist:item=1298672084&perks=2869569095,2360754333
+
 // Bygones (Kinetic Adaptive [390 RPM] Pulse Rifle)
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2199554524&perks=3700496672,3891536761
