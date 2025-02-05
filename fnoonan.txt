@@ -7,6 +7,10 @@ title:fnoonan's wishlist
 dimwishlist:item=2987244302&perks=692399809,831391274
 dimwishlist:item=2987244302&perks=692399809,2298656195
 
+// Redrix's Estoc (Stasis PR-55 Frame [450 RPM] Pulse Rifle)
+// Rimestealer + Headstone
+dimwishlist:item=3218364298&perks=1955165503,124408337
+
 // Midnight Coup (Kinetic Adaptive [140 RPM] Hand Cannon)
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2499720827&perks=3700496672,3891536761
