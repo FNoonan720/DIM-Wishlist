@@ -94,6 +94,10 @@ dimwishlist:item=157601190&perks=776531651,1464081238
 dimwishlist:item=2876244791&perks=3038247973,2109543898
 dimwishlist:item=2876244791&perks=3038247973,3081867624
 
+// Division (Arc Heavy Burst [325 RPM] Sidearm)
+// Eddy Current + Voltshot
+dimwishlist:item=2992463569&perks=684456054,2173046394
+
 // VS Pyroelectric Propellant (Arc Adaptive [600 RPM] Auto Rifle)
 // Attrition Orbs, Eddy Current, Strategist + Jolting Feedback
 // Attrition Orbs + Onslaught
