@@ -68,6 +68,22 @@ dimwishlist:item=2599338624&perks=3987942396,2978966579
 
 // ENERGY SLOT PRIMARIES
 
+// Joxer's Longsword (Void Heavy Burst [324 RPM] Pulse Rifle)
+// Demolitionist + Adr. Junkie, Desp. Measures, Destab. Rounds, Demoralize
+// Dragonfly + Desp. Measures, Destab. Rounds, One-for-All, Demoralize
+// Repulsor Brace + Desp. Measures, Destab. Rounds, Demoralize
+dimwishlist:item=157601190&perks=3523296417,11612903
+dimwishlist:item=157601190&perks=3523296417,2109543898
+dimwishlist:item=157601190&perks=3523296417,2048641572
+dimwishlist:item=157601190&perks=3523296417,1464081238
+dimwishlist:item=157601190&perks=2848615171,2109543898
+dimwishlist:item=157601190&perks=2848615171,2048641572
+dimwishlist:item=157601190&perks=2848615171,4049631843
+dimwishlist:item=157601190&perks=2848615171,1464081238
+dimwishlist:item=157601190&perks=776531651,2109543898
+dimwishlist:item=157601190&perks=776531651,2048641572
+dimwishlist:item=157601190&perks=776531651,1464081238
+
 // VS Pyroelectric Propellant (Arc Adaptive [600 RPM] Auto Rifle)
 // Attrition Orbs, Eddy Current, Strategist + Jolting Feedback
 // Attrition Orbs + Onslaught
