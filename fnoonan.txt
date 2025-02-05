@@ -2,6 +2,11 @@ title:fnoonan's wishlist
 
 // KINETIC SLOT PRIMARIES
 
+// Adamantite (Strand Support Frame [600 RPM] Auto Rifle)
+// Reciprocity + Hatchling, Circle of Life
+dimwishlist:item=2987244302&perks=692399809,831391274
+dimwishlist:item=2987244302&perks=692399809,2298656195
+
 // Midnight Coup (Kinetic Adaptive [140 RPM] Hand Cannon)
 // Shoot to Loot + Kinetic Tremors
 dimwishlist:item=2499720827&perks=3700496672,3891536761
